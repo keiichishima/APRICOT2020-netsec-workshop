@@ -4,23 +4,23 @@
 
 ### Day 1 Introduction for security and crypto
 ----------------------------------------------------------------------
-Session 1 Introduction
-Session 2 Security in general
-Session 3 Cryptography Basics and Hash [LAB]
-Session 4 SSH [LAB]
+Session 1 Introduction		maz
+Session 2 Security in general	maz
+Session 3 Cryptography Basics and Hash [LAB]	maz
+Session 4 SSH [LAB]	keiichi philip
 
 ### Day 2 Host security
 ----------------------------------------------------------------------
-Session 1 Firewalls / host security [LAB]
-Session 2 Wireshark [LAB]
-Session 3 PGP [LAB]
-Session 4 VPN [LAB]
+Session 1 Firewalls / host security [LAB]	keiichi
+Session 2 Wireshark [LAB]	philip maz
+Session 3 PGP [LAB]		keiichi
+Session 4 VPN [LAB]		keiichi
 
 ### Day 3 Infrastructure security
-Session 1 Securing NW Infra, Router and switch protection
-Session 2 uRPF / RPKI
-Session 3 MANRS
-Session 4 MANRS [LAB]
+Session 1 Securing NW Infra	maz
+Session 2 Securing NW Infra	maz
+Session 3 MANRS			maz
+Session 4 MANRS [LAB]		maz
 
 ### Day 4 DNS and DNSSEC
 ----------------------------------------------------------------------
