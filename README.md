@@ -3,14 +3,12 @@
 ## Timetable
 
 ### Day 1 Introduction for security and crypto
-----------------------------------------------------------------------
 - Session 1 Introduction		maz
 - Session 2 Security in general	maz
 - Session 3 Cryptography Basics and Hash [LAB]	maz
 - Session 4 SSH [LAB]	keiichi philip
 
 ### Day 2 Host security
-----------------------------------------------------------------------
 - Session 1 Firewalls / host security [LAB]	keiichi
 - Session 2 Wireshark [LAB]	philip maz
 - Session 3 PGP [LAB]		keiichi
