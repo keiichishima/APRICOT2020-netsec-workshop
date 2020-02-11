@@ -19,6 +19,8 @@
 - Session 2 Security in general	maz
 - Session 3 Cryptography Basics and Hash [LAB]	maz
 - Session 4 SSH [LAB]	keiichi philip
+    - [1-4.ssh.pdf](./1-4.ssh.pdf)
+    - [1-4.lab-ssh.pdf](./1-4.lab-ssh.pdf)
 
 ### Day 2 Host security
 - Session 1 Firewalls / host security [LAB]	keiichi
