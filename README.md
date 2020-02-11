@@ -16,8 +16,11 @@
 
 ### Day 1 Introduction for security and crypto
 - Session 1 Introduction		maz
+    - [1-1.intro.pdf](./1-1.intro.pdf)
 - Session 2 Security in general	maz
+    - [1-2.AssetsThreats.pdf](./1-2.AssetsThreats.pdf)
 - Session 3 Cryptography Basics and Hash [LAB]	maz
+    - [1-3.crypto-hash.pdf](./1-3.crypto-hash.pdf)
 - Session 4 SSH [LAB]	keiichi philip
     - [1-4.ssh.pdf](./1-4.ssh.pdf)
     - [1-4.lab-ssh.pdf](./1-4.lab-ssh.pdf)
