@@ -1,5 +1,17 @@
 # APRICOT 2020 Network Infrastructure Security Workshop
 
+## Schedule
+
+Time        | 
+----------- | ---------
+09:30-11:00 | Session 1
+11:00-11:30 | Break
+11:30-13:00 | Session 2
+13:00-14:00 | Lunch
+14:00-15:30 | Session 3
+15:30-16:00 | Break
+16:00-18:00 | Session 4
+
 ## Timetable
 
 ### Day 1 Introduction for security and crypto
