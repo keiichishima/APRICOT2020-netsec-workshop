@@ -30,9 +30,16 @@
 
 ### Day 2 Host security
 - Session 1 Firewalls / host security [LAB]	keiichi
+    - [2-1.fw-host-security.pdf](./2-1.fw-host-security.pdf)
+    - [2-1.lab-ufw.pdf](./2-1.lab-ufw.pdf)
+    - [2-1.lab-scanning.pdf](./2-1.lab-scanning.pdf)
 - Session 2 Wireshark [LAB]	philip maz
 - Session 3 PGP [LAB]		keiichi
+    - [2-3.pgp.pdf](./2-3.pgp.pdf)
+    - [2-3.lab-pgp-party.pdf](./2-3.lab-pgp-party.pdf)
 - Session 4 VPN [LAB]		keiichi
+    - [2-4.vpn-tls.pdf](./2-4.vpn-tls.pdf)
+    - [2-4.lab-openvpn-easy.pdf](./2-4.lab-openvpn-easy.pdf)
 
 ### Day 3 Infrastructure security
 - Session 1 Securing NW Infra	maz
