@@ -21,6 +21,8 @@
     - [1-2.AssetsThreats.pdf](./1-2.AssetsThreats.pdf)
 - Session 3 Cryptography Basics and Hash [LAB]	maz
     - [1-3.crypto-hash.pdf](./1-3.crypto-hash.pdf)
+    - [hello-unix.dat](./hello-unix.dat)
+    - [hello-win.dat](./hello-win.dat)
 - Session 4 SSH [LAB]	keiichi philip
     - [1-4.ssh.pdf](./1-4.ssh.pdf)
     - [1-4.lab-ssh.pdf](./1-4.lab-ssh.pdf)
