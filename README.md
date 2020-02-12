@@ -40,6 +40,7 @@
 - Session 4 VPN [LAB]		keiichi
     - [2-4.vpn-tls.pdf](./2-4.vpn-tls.pdf)
     - [2-4.lab-openvpn-easy.pdf](./2-4.lab-openvpn-easy.pdf)
+    - [openvpn-install.sh](./openvpn-install.sh)
 
 ### Day 3 Infrastructure security
 - Session 1 Securing NW Infra	maz
