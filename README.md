@@ -34,6 +34,8 @@
     - [2-1.lab-ufw.pdf](./2-1.lab-ufw.pdf)
     - [2-1.lab-scanning.pdf](./2-1.lab-scanning.pdf)
 - Session 2 Wireshark [LAB]	philip maz
+    - [2-2.wireshark.pdf](./2-2.wireshark.pdf)
+    - [2-2.WiresharkExerciseData.zip](./2-2.WiresharkExerciseData.zip)
 - Session 3 PGP [LAB]		keiichi
     - [2-3.pgp.pdf](./2-3.pgp.pdf)
     - [2-3.lab-pgp-party.pdf](./2-3.lab-pgp-party.pdf)
