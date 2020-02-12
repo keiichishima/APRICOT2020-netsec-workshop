@@ -25,6 +25,7 @@
     - [hello-win.dat](./hello-win.dat)
 - Session 4 SSH [LAB]	keiichi philip
     - [1-4.ssh.pdf](./1-4.ssh.pdf)
+    - [1-4.lab-00setup.pdf](./1-4.lab-00setup.pdf)
     - [1-4.lab-ssh.pdf](./1-4.lab-ssh.pdf)
 
 ### Day 2 Host security
