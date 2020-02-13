@@ -47,9 +47,9 @@
 
 ### Day 3 Infrastructure security
 - Session 1 Securing NW Infra	maz
-- Session 2 Securing NW Infra	maz
-- Session 3 MANRS		maz
-- Session 4 MANRS [LAB]		maz
+    - [3-1.securing-network-infra.pdf](./3-1.securing-network-infra.pdf)
+- Session 3 Why Security MUST matter	merike
+- Session 4 MANRS 		maz
 
 ### Day 4 DNS and DNSSEC
 - Session 1 DNS&DNSSEC	champ philip
