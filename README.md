@@ -32,6 +32,7 @@
 - Session 1 Firewalls / host security [LAB]	keiichi
     - [2-1.fw-host-security.pdf](./2-1.fw-host-security.pdf)
     - [2-1.lab-ufw.pdf](./2-1.lab-ufw.pdf)
+    - [2-1.lab-ufw-answers.pdf](./2-1.lab-ufw-answers.pdf)
     - [2-1.lab-scanning.pdf](./2-1.lab-scanning.pdf)
 - Session 2 Wireshark [LAB]	philip maz
     - [2-2.wireshark.pdf](./2-2.wireshark.pdf)
