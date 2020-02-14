@@ -54,6 +54,7 @@
     - [3-3.Fundamental_Security.pdf](./3-3.Fundamental_Security.pdf)
 - Session 4 MANRS 		maz
     - [3-4.manrs.pdf](./3-4.manrs.pdf)
+    - [3-4.routeleakage.pdf](./3-4.routeleakage.pdf)
 
 ### Day 4 DNS and DNSSEC
 - Session 1 DNS&DNSSEC	champ philip
