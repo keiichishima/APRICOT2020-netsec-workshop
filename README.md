@@ -58,8 +58,11 @@
 
 ### Day 4 DNS and DNSSEC
 - Session 1 DNS&DNSSEC	champ philip
+    - [4-1.Training-materials-AU-1.pdf](./4-1.Training-materials-AU-1.pdf)
 - Session 2 DNS&DNSSEC	champ philip
+    - [4-2.Training-materials-AU-2.pdf](./4-2.Training-materials-AU-2.pdf)
 - Session 3 DNS&DNSSEC	champ philip
+    - [4-3.Training-materials-AU-3.pdf](./4-3.Training-materials-AU-3.pdf)
 - Session 4 DNS&DNSSEC	champ philip
 
 ### Day 5 Incident Handling
