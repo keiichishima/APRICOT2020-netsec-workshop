@@ -66,7 +66,11 @@
 - Session 4 DNS&DNSSEC	champ philip
 
 ### Day 5 Incident Handling
-- Session 1 CSIRT		adli
-- Session 2 CSIRT		adli
-- Session 3 CSIRT		adli
-- Session 4 CSIRT		adli
+- Session 1 Honeypots		adli
+    - [5-1.TLP-White-Intro-to-Honeypots.pdf](./5-1.TLP-White-Intro-to-Honeypots.pdf)
+- Session 2 Honeypots Lab	adli
+    - [5-2.1.Honeypot-lab-1-cowrie-apricot2020.pdf](./5-2.1.Honeypot-lab-1-cowrie-apricot2020.pdf)
+    - [5-2.2.Honeypot-lab2-cowrie-docker-analysis-apricot2020.pdf](./5-2.2.Honeypot-lab2-cowrie-docker-analysis-apricot2020.pdf)
+- Session 3 Intro to CERT/CSIRT		adli
+    - [5-3.TLP-WHITE-Intro-to-CSIRT.pdf](./5-3.TLP-WHITE-Intro-to-CSIRT.pdf)
+- Session 4 Intro to CERT/CSIRT	adli
