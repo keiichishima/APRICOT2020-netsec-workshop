@@ -3,6 +3,7 @@
 
 ![group photo1](./apricot2020-netsec-groupphoto1.png)
 ![group photo2](./apricot2020-netsec-groupphoto2.png)
+![group photo3](./apricot2020-netsec-groupphoto3.png)
 
 ## Schedule
 
