@@ -1,4 +1,8 @@
 # APRICOT 2020 Network Infrastructure Security Workshop
+## Group Photos
+
+![group photo1](./apricot2020-netsec-groupphoto1.png)
+![group photo2](./apricot2020-netsec-groupphoto2.png)
 
 ## Schedule
 
